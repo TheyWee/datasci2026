@@ -1,0 +1,8 @@
+otter-grader
+datascience
+numpy
+matplotlib
+pandas
+scipy
+jinja2
+hvplot
