@@ -6,3 +6,4 @@ pandas
 scipy
 jinja2
 hvplot
+notion_client
